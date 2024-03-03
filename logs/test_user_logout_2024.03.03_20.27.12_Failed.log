@@ -1,0 +1,1 @@
+udid: emulator-5554, test_user_logout: exception: 'NoSuchElementException' object has no attribute 'text'
